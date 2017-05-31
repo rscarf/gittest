@@ -1,4 +1,4 @@
 i am a happy boy!
-master how are you? are you ?
-dev i am fine too!
+master
+dev
 oh!my god!
