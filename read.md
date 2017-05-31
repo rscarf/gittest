@@ -1,7 +1,7 @@
 dev
 master
-dev
-dev
-dev
+master
+dev master
+dev master
 master
 
